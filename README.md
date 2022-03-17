@@ -1,2 +1,2 @@
 # config
-Environment specific config files
+Environment specific config files for Spring configuration
